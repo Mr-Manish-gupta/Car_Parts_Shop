@@ -153,10 +153,6 @@ Car_Parts_Shop/
 - **Git Protection**: Sensitive environment files (`.env*`, `application-local.properties`) are strictly excluded via `.gitignore`.
 - **JWT Protection**: All secure endpoints are guarded with cryptographically signed tokens and role-based validation.
 
----
-
-## 📄 License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
